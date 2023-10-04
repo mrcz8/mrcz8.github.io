@@ -1,0 +1,241 @@
+{
+  "profile": {
+    "name": "ALAN MARC VARRON",
+    "job": "Junior Web Developer",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "A dedicated web developer and programmer who has been immersed in the dynamic world of web development for over a year. It's my pleasure to invite you to join me on a journey through the digital landscape, where I work my skills and experience by transforming concepts into engaging online experiences.",
+    "socialNetwork": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/marcvarron"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/mrcz8"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF",
+    "value": "Alan Marc Varron",
+    "url": "resume/Resume.pdf"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Mail address",
+      "value": "marcvarron8@gmail.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "24 Years Old",
+      "value": "08 September 1999"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Phone Number",
+      "value": "+63 (948) 907 6681"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Work type",
+      "value": "Remote or Fulltime"
+    }
+  ],
+  "skill": [
+    "PHP",
+    "Laravel",
+    "CodeIgniter",
+    "Wordpress",
+    "JavaScript",
+    "Vue",
+    "Inertia",
+    "jQuery",
+    "Tailwindcss",
+    "Bootstrap",
+    "CSS",
+    "HTML",
+    "Git",
+    "MySQL"
+  ],
+  "experience": [
+    {
+      "job": "PageOne 247",
+      "company": "Web Developer",
+      "companyLogo": "img/company/pageone247.jpg",
+      "location": "Australia",
+      "workType": "Fulltime",
+      "start": "Sep 2022",
+      "end": "Current",
+      "description": ""
+    },
+    {
+      "job": "Trident PH Gen Z Outsourcing",
+      "company": "Web Developer | IT support",
+      "companyLogo": "img/company/trident.jpg",
+      "location": "Philippines",
+      "workType": "OJT",
+      "start": "Jan 2022",
+      "end": "Mar 2022",
+      "description": ""
+    },
+    {
+      "job": "Trident PH Gen Z Outsourcing",
+      "company": "IT staff",
+      "companyLogo": "img/company/trident.jpg",
+      "location": "Philippines",
+      "workType": "Part-time",
+      "start": "Nov 2021",
+      "end": "Jan 2022",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "college": "Assumption College of Davao",
+      "collegeLogo": "img/college/acd.jpg",
+      "course": "Information Technology",
+      "start": "2018",
+      "end": "2022"
+    },
+    {
+      "college": "Holy Cross of Davao College",
+      "collegeLogo": "img/college/hcdc.png",
+      "course": "Information Communication Technology",
+      "start": "2016",
+      "end": "2018"
+    }
+  ],
+  "certificate": [
+    {
+      "course": "DIVERSITY AND ANTI-HARASSMENT IN THE WORKPLACE",
+      "school": "Assumption College of Davao",
+      "schoolLogo": "img/college/acd.jpg",
+      "issueDate": "Jan 31 2022",
+      "certType": "Certificate of Participation"
+    },
+    {
+      "course": "Skills in Effective Presentation",
+      "school": "Assumption College of Davao",
+      "schoolLogo": "img/college/acd.jpg",
+      "issueDate": "Dec 12 2021",
+      "certType": "Certificate of Participation"
+    },
+    {
+      "course": "Introduction to Big Data Analysis with AWS",
+      "school": "Edukasyon.ph",
+      "schoolLogo": "img/college/edukasyon.webp",
+      "issueDate": "Sep 20 2021",
+      "certType": "Certificate of Attendance"
+    },
+    {
+      "course": "Network Security",
+      "school": "Erovoutika Robotics and Automation Solutions",
+      "schoolLogo": "img/college/erovoutika.png",
+      "issueDate": "Sep 5 2021",
+      "certType": "Certificate of Participation"
+    }
+  ],
+  "project": [
+    {
+      "name": "Tunnel Network Services",
+      "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, MYSQL",
+      "images": [
+        "img/project/tns/tns1.jpg",
+        "img/project/tns/tns2.jpg",
+        "img/project/tns/tns3.jpg",
+        "img/project/tns/tns4.jpg",
+        "img/project/tns/tns5.jpg",
+        "img/project/tns/tns6.jpg"
+      ]
+    },
+    {
+      "name": "Body Corporate Reports",
+      "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, MYSQL",
+      "images": [
+        "img/project/bcr/bcr.jpg",
+        "img/project/bcr/bcr2.jpg",
+        "img/project/bcr/bcr3.jpg",
+        "img/project/bcr/bcr4.jpg"
+      ]
+    },
+    {
+      "name": "Defensive Solutions Australia",
+      "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, MYSQL",
+      "images": [
+        "img/project/dsa/dsa.jpg",
+        "img/project/dsa/dsa1.jpg",
+        "img/project/dsa/dsa2.jpg",
+        "img/project/dsa/dsa3.jpg",
+        "img/project/dsa/dsa4.jpg",
+        "img/project/dsa/dsa5.jpg",
+        "img/project/dsa/dsa6.jpg"
+      ]
+    },
+    {
+      "name": "Connecting Seniors Online",
+      "language": "Wordpress, PHP, Elementor",
+      "images": [
+        "img/project/cso/cso.jpg",
+        "img/project/cso/cso1.jpg",
+        "img/project/cso/cso2.jpg",
+        "img/project/cso/cso3.jpg",
+        "img/project/cso/cso4.jpg"
+      ]
+    },
+    {
+      "name": "Aesthetex",
+      "language": "Wordpress, PHP, Elementor",
+      "images": [
+        "img/project/aesthetex/aesthetex.jpg",
+        "img/project/aesthetex/aesthetex2.jpg",
+        "img/project/aesthetex/aesthetex3.jpg",
+        "img/project/aesthetex/aesthetex4.jpg"
+      ]
+    },
+    {
+      "name": "Telsyl Healthcare",
+      "language": "PHP, Bootstrap, Javascript",
+      "images": [
+        "img/project/telsyl/telsyl.jpg",
+        "img/project/telsyl/telsyl1.jpg",
+        "img/project/telsyl/telsyl2.jpg",
+        "img/project/telsyl/telsyl3.jpg"
+      ]
+    },
+    {
+      "name": "Marcher Leadership",
+      "language": "Wordpress, PHP, WPBakery",
+      "images": [
+        "img/project/marcher/marcher.jpg",
+        "img/project/marcher/marcher1.jpg",
+        "img/project/marcher/marcher2.jpg",
+        "img/project/marcher/marcher3.jpg"
+      ]
+    },
+    {
+      "name": "Engage 4 Performance",
+      "language": "Wordpress, PHP, WPBakery",
+      "images": [
+        "img/project/e4p/e4p.jpg",
+        "img/project/e4p/e4p1.jpg",
+        "img/project/e4p/e4p2.jpg",
+        "img/project/e4p/e4p3.jpg"
+      ]
+    },
+    {
+      "name": "The Blue Mexican",
+      "language": "Wordpress, PHP, WPBakery",
+      "images": [
+        "img/project/thebluemex/thebluemex.jpg",
+        "img/project/thebluemex/thebluemex1.jpg",
+        "img/project/thebluemex/thebluemex2.jpg",
+        "img/project/thebluemex/thebluemex3.jpg",
+        "img/project/thebluemex/thebluemex4.jpg",
+        "img/project/thebluemex/thebluemex5.jpg",
+        "img/project/thebluemex/thebluemex6.jpg"
+      ]
+    }
+  ]
+}
