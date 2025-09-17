@@ -1,0 +1,306 @@
+{
+    "profile": {
+        "name": "Alan Marc Varron",
+        "job": "Web Developer",
+        "avatar": "img/profile/profile.png",
+        "aboutMe": "A dedicated web developer and programmer who has been immersed in the dynamic world of web development for over a year. It's my pleasure to invite you to join me on a journey through the digital landscape, where I work my skills and experience by transforming concepts into engaging online experiences.",
+        "socialNetwork": [
+            {
+                "name": "Github",
+                "url": "https://github.com/mrcz8"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/marcvarron/"
+            }
+        ]
+    },
+    "cv": {
+        "icon": "DocumentTextIcon",
+        "name": "PDF & DOC",
+        "value": "Alan Marc Varron",
+        "url": "#"
+    },
+    "information": [
+        {
+            "icon": "EnvelopeIcon",
+            "name": "Mail address",
+            "value": "marcvarron8@gmail.com"
+        },
+        {
+            "icon": "CakeIcon",
+            "name": "25 Years old",
+            "value": "08 September 1999"
+        },
+        {
+            "icon": "DevicePhoneMobileIcon",
+            "name": "Phone Number",
+            "value": "+63 948 907 6681"
+        }
+    ],
+    "skills": [
+        "img/skills/amazonS3.svg",
+        "img/skills/bootstrap.svg",
+        "img/skills/codeigniter.svg",
+        "img/skills/cpanel.svg",
+        "img/skills/css.svg",
+        "img/skills/digitalocean.svg",
+        "img/skills/docker.svg",
+        "img/skills/git.svg",
+        "img/skills/googlecloud.svg",
+        "img/skills/html.svg",
+        "img/skills/javascript.svg",
+        "img/skills/jquery.svg",
+        "img/skills/laravel.svg",
+        "img/skills/mysql.svg",
+        "img/skills/nextJS.svg",
+        "img/skills/nginx.svg",
+        "img/skills/nuxtJS.svg",
+        "img/skills/inertia.svg",
+        "img/skills/php.svg",
+        "img/skills/postgresql.svg",
+        "img/skills/react.svg",
+        "img/skills/tailwind.svg",
+        "img/skills/vue.svg",
+        "img/skills/wordpress.svg"
+    ],
+    "language": [
+        {
+            "name": "English",
+            "code": "pt-BR",
+            "flag": "svg/united-states.svg",
+            "level": "Native Language"
+        }
+    ],
+    "techstack": [
+        {
+            "name": "Laravel",
+            "logo": "img/skills/laravel.svg"
+        },
+        {
+            "name": "NuxtJs",
+            "logo": "img/skills/nuxtJS.svg"
+        },
+        {
+            "name": "InertiaJs",
+            "logo": "img/skills/inertia.svg"
+        },
+        {
+            "name": "Tailwind",
+            "logo": "img/skills/tailwind.svg"
+        },
+        {
+            "name": "Docker",
+            "logo": "img/skills/docker.svg"
+        },
+        {
+            "name": "Nginx",
+            "logo": "img/skills/nginx.svg"
+        }
+    ],
+    "experience": [
+        {
+            "company": "MarketDragon",
+            "job": "Fullstack Developer",
+            "companyLogo": "img/company/marketdragon.svg",
+            "location": "Philippines",
+            "workType": "Fulltime",
+            "start": "June 2025",
+            "end": "Current",
+            "description": ""
+        },
+        {
+            "company": "ConnIct",
+            "job": "Fullstack Developer | Ops",
+            "companyLogo": "",
+            "location": "Philippines",
+            "workType": "Part-time",
+            "start": "Sep 2024",
+            "end": "Current",
+            "description": ""
+        },
+        {
+            "company": "Infosoft",
+            "job": "Fullstack Developer | Ops",
+            "companyLogo": "img/company/infosoft.png",
+            "location": "Philippines",
+            "workType": "Fulltime",
+            "start": "Sep 2022",
+            "end": "June 2025",
+            "description": ""
+        },
+        {
+            "company": "Trident PH Gen Z Outsourcing",
+            "job": "Web Developer | IT support",
+            "companyLogo": "img/company/trident.jpg",
+            "location": "Philippines",
+            "workType": "On-the-Job Training",
+            "start": "Jan 2022",
+            "end": "Mar 2022",
+            "description": ""
+        },
+        {
+            "company": "Trident PH Gen Z Outsourcing",
+            "job": "IT staff",
+            "companyLogo": "img/company/trident.jpg",
+            "location": "Philippines",
+            "workType": "Part-time",
+            "start": "Nov 2021",
+            "end": "Jan 2022",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "college": "Assumption College of Davao",
+            "collegeLogo": "img/college/acd.jpg",
+            "course": "Bachelor of Science in Information Technology",
+            "start": "2018",
+            "end": "2022"
+        },
+        {
+            "college": "Holy Cross of Davao College",
+            "collegeLogo": "img/college/hcdc.png",
+            "course": "Information Communication Technology",
+            "start": "2016",
+            "end": "2018"
+        }
+    ],
+    "certificate": [
+        {
+            "title": "DIVERSITY AND ANTI-HARASSMENT IN THE WORKPLACE",
+            "place": "Assumption College of Davao",
+            "schoolLogo": "img/certificate/acd.jpg",
+            "issueDate": "Jan 31 2022",
+            "type": "Certificate of Participation"
+        },
+        {
+            "title": "Skills in Effective Presentation",
+            "place": "Assumption College of Davao",
+            "schoolLogo": "img/certificate/acd.jpg",
+            "issueDate": "Dec 12 2021",
+            "type": "Certificate of Participation"
+        },
+        {
+            "title": "Introduction to Big Data Analysis with AWS",
+            "place": "Edukasyon.ph",
+            "schoolLogo": "img/certificate/edukasyon.webp",
+            "issueDate": "Sep 20 2021",
+            "type": "Certificate of Attendance"
+        },
+        {
+            "title": "Network Security",
+            "place": "Erovoutika Robotics and Automation Solutions",
+            "schoolLogo": "img/certificate/erovoutika.png",
+            "issueDate": "Sep 5 2021",
+            "type": "Certificate of Participation"
+        }
+    ],
+    "project": [
+        {
+            "name": "Tunnel Network Services",
+            "description": "The Tunnel Network Services application is a web-based platform designed to manage company reports, blueprints, and other documents. It integrates with Google Drive for secure cloud storage, allowing users to upload, store, and access files easily. The platform also enables administrators to create and manage employee profiles, streamlining data organization and collaboration.",
+            "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, MYSQL",
+            "infrastructure": "Docker, Nginx, Google API",
+            "images": [
+                "img/project/tns/tns1.jpg",
+                "img/project/tns/tns2.jpg",
+                "img/project/tns/tns3.jpg",
+                "img/project/tns/tns4.jpg",
+                "img/project/tns/tns5.jpg",
+                "img/project/tns/tns6.jpg"
+            ]
+        },
+        {
+            "name": "E-vents",
+            "description": "The E-vents application is designed for event organizers to streamline the planning and management of events. It provides tools for scheduling, attendee management, and event coordination, helping organizers efficiently track and execute events from start to finish.",
+            "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, PostgreSQL",
+            "infrastructure": "Docker, Nginx",
+            "images": [
+                "img/project/events/events1.jpg",
+                "img/project/events/events2.jpg",
+                "img/project/events/events3.jpg",
+                "img/project/events/events4.jpg",
+                "img/project/events/events5.jpg",
+                "img/project/events/events6.jpg"
+            ]
+        },
+        {
+            "name": "Attendance Monitoring",
+            "description": "The Attendance Monitoring system is a web application designed to track and manage employee attendance efficiently. It allows administrators to record, view, and generate reports on attendance data, helping improve workforce accountability and productivity.",
+            "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, MySQL",
+            "infrastructure": "Docker, Nginx, NG-Teco fingerprint device",
+            "images": [
+                "img/project/connict/connict1.jpg",
+                "img/project/connict/connict2.jpg",
+                "img/project/connict/connict3.jpg",
+                "img/project/connict/connict4.jpg",
+                "img/project/connict/connict5.jpg",
+                "img/project/connict/connict6.jpg",
+                "img/project/connict/connict7.jpg",
+                "img/project/connict/connict8.jpg"
+            ]
+        },
+        {
+            "name": "Body Corporate Reports",
+            "description": "A commercial web application that delivers real-time building and construction industry reports across Australia. I developed features for data integration, user authentication, and optimized performance to ensure fast, secure access to critical industry data.",
+            "language": "PHP, Laravel, Vue, NuxtJS, Tailwind, MySQL",
+            "infrastructure": "Docker, Nginx",
+            "images": [
+                "img/project/bcr/bcr1.jpg",
+                "img/project/bcr/bcr2.jpg",
+                "img/project/bcr/bcr3.jpg",
+                "img/project/bcr/bcr4.jpg"
+            ]
+        },
+        {
+            "name": "Connecting Seniors Online",
+            "description": "A WordPress website designed to help seniors stay connected through accessible content, user-friendly design, and community-focused features.",
+            "language": "Wordpress, PHP, Elementor",
+            "infrastructure": "Cpanel",
+            "images": [
+                "img/project/cso/cso1.jpg",
+                "img/project/cso/cso2.jpg",
+                "img/project/cso/cso3.jpg",
+                "img/project/cso/cso4.jpg",
+                "img/project/cso/cso5.jpg"
+            ]
+        },
+        {
+            "name": "Aesthetex",
+            "description": "A WordPress website focused on facial enhancement services, designed to showcase beauty treatments and help users explore ways to enhance their natural features.",
+            "language": "Wordpress, PHP, Elementor",
+            "infrastructure": "Cpanel",
+            "images": [
+                "img/project/aesthetex/aesthetex1.jpg",
+                "img/project/aesthetex/aesthetex2.jpg",
+                "img/project/aesthetex/aesthetex3.jpg",
+                "img/project/aesthetex/aesthetex4.jpg"
+            ]
+        },
+        {
+            "name": "Telsyl Healthcare",
+            "description": "A custom-built PHP website using Bootstrap and JavaScript for a professional healthcare provider in Australia. Designed to be responsive, fast, and user-friendly to showcase services and contact info clearly.",
+            "language": "PHP, Bootstrap, Javascript",
+            "infrastructure": "Cpanel",
+            "images": [
+                "img/project/telsyl/telsyl1.jpg",
+                "img/project/telsyl/telsyl2.jpg",
+                "img/project/telsyl/telsyl3.jpg",
+                "img/project/telsyl/telsyl4.jpg"
+            ]
+        },
+        {
+            "name": "Engage 4 Performance",
+            "description": "A WordPress website built with WPBakery for a professional coaching and training business. Designed to promote services, speaking engagements, and personal development programs.",
+            "language": "Wordpress, PHP, WPBakery",
+            "infrastructure": "Cpanel",
+            "images": [
+                "img/project/e4p/e4p1.jpg",
+                "img/project/e4p/e4p2.jpg",
+                "img/project/e4p/e4p3.jpg",
+                "img/project/e4p/e4p4.jpg"
+            ]
+        }
+    ]
+}
