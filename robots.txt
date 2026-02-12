@@ -1,11 +1,11 @@
 # Robots.txt for Alan Marc Varron Portfolio
-# https://mrcz8.github.io/portfolio/
+# https://mrcz8.github.io/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://mrcz8.github.io/portfolio/sitemap.xml
+Sitemap: https://mrcz8.github.io/sitemap.xml
 
 # Crawl-delay (optional, be nice to servers)
 Crawl-delay: 1
