@@ -40,9 +40,9 @@
     ],
     "shortcuts": [
         {
-            "name": "Case studies",
+            "name": "Projects",
             "short_name": "Work",
-            "description": "See recent client projects",
+            "description": "See my recent projects",
             "url": "/#work",
             "icons": [
                 {
@@ -52,9 +52,9 @@
             ]
         },
         {
-            "name": "Get a free quote",
-            "short_name": "Quote",
-            "description": "Tell me about your project",
+            "name": "Get in touch",
+            "short_name": "Contact",
+            "description": "Send me a message",
             "url": "/#contact",
             "icons": [
                 {
@@ -75,6 +75,6 @@
     ],
     "related_applications": [],
     "prefer_related_applications": false,
-    "name": "Alan Marc Varron - Laravel & AI Developer",
-    "description": "Alan Marc Varron builds Laravel web apps and AI chatbots that answer from your documents, for small businesses in Australia and the US. Get a free quote."
+    "name": "Alan Marc Varron - Full-Stack Developer",
+    "description": "Full-stack developer building Laravel web apps, AI assistants, and CRM and workflow automations. See my projects, the stack I use, and how to reach me."
 }

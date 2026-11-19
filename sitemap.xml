@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mrcz8.github.io/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://mrcz8.github.io/projects/ohscentric/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://mrcz8.github.io/projects/project-management-platform/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://mrcz8.github.io/projects/attendance-monitoring/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://mrcz8.github.io/projects/e-vents/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
   </url>
   <url>
     <loc>https://mrcz8.github.io/projects/agentkit/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://mrcz8.github.io/laravel-developer/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://mrcz8.github.io/ai-chatbot-developer/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://mrcz8.github.io/crm-automation-developer/</loc>
+    <lastmod>2026-11-20</lastmod>
   </url>
 </urlset>
